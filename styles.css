@@ -1,0 +1,16 @@
+#message {
+    margin-top: 5%;
+}
+
+#articleBox1 {
+    border: 1px solid blue;
+    width: 45%;
+    height: 50px;
+    margin: 0;
+}
+
+#articleBox2 {
+    border: 1px solid red;
+    width: 45%;
+    height: 50px;
+}
